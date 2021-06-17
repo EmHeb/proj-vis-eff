@@ -19,4 +19,5 @@ Supervised learning, Computer Vision and Robotics.\
 - Learning new languages such as CSS/php or other techniques.
 - Specifying our project focus.
 - Read the article about Indigenous Protocol.
+- Upload summary on articles and meetings
 - ...
